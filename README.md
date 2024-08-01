@@ -9,6 +9,9 @@ A powerful and user-friendly web application designed to facilitate the extracti
 - **Progress Tracking**: Visualize the progress of image extraction with a real-time progress bar.
 - **Downloadable ZIP Archive**: Download all extracted images as a ZIP file for easy access.
 
+#### Live Demo:
+Experience the tool in action by visiting our live Streamlit app: [Image Dataset Extractor](https://imagedatasetextractor-cwafzyfcpf2qslmapc9gdj.streamlit.app/)
+
 #### Technologies Used:
 - **Streamlit**: For building the interactive web application.
 - **OpenCV**: For image processing and resizing.
