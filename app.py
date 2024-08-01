@@ -152,7 +152,8 @@ st.write(
     """
     ---
     <footer style="text-align: center; padding: 20px; font-size: 14px; color: #888;">
-        Developed by [Nandeesh H U](mailto:10nandeeshhu@gmail.com) <br>
+        Developed by Nandeesh H U <br>
+        10nandeeshhu@gmail.com <br>
         Indian Institute of Technology Guwahati
     </footer>
     """,
